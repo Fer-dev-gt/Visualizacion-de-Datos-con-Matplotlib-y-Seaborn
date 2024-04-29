@@ -1,0 +1,38 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Package files
+*.egg-info/
+dist/
+build/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# macOS specific files
+.AppleDouble
+.LSOverride
